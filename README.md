@@ -666,6 +666,8 @@ write_csv(pred_df, "Naive Bayes")
 
 our location is 1196 with score 71.5%
 
+![title](Score bord/first_try.png)
+
 We'll try another linear model - **SGD**
 
 
