@@ -721,7 +721,7 @@ write_csv(pred_df, "AdaBoost")
 
 Our score hasn't impruved, but we climbed up to the 675th place!
 
-![png](Score bord/fourth_try.png)
+![png](Score%20bord/fourth_try.png)
 Finally, we will try **AdaBoost** with different featurs and less predictors
 
 
